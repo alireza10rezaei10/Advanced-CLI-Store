@@ -1,7 +1,10 @@
 # Advanced-CLI-Store
 A CLI program to represent a store website with fetures like a real website.
 
-admin username: admin
-admin password: admin
+Run the main.py file.
 
-in each step you can type 'back' to back to the previous page.
+Admin username: admin
+
+Admin password: admin
+
+In each step you can type 'back' to back to the previous page.
